@@ -1,0 +1,6 @@
+Use pysports;
+
+Create Table  if not exists (
+  column_1_Teams,
+  column_2_Players,
+  )
