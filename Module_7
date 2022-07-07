@@ -5,12 +5,14 @@ Create Table Table-In_Pysports (
   teams
   );
   
-  Use players
+  Use players (
     player_ID
     first_name
     last_name
+    );
   
-  Use teams
+  Use teams (
       Team_ID
       Team_name
       Mascot 
+      );
